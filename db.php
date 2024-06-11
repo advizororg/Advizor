@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root";  // Your phpMyAdmin username, usually "root" for local installations
-$password = "";  // Your phpMyAdmin password, usually empty for local installations
-$dbname = "advizor_db";
+$servername = "sql8.freesqldatabase.com";
+$username = "sql8713283";  // Your phpMyAdmin username, usually "root" for local installations
+$password = "1Cc734Xk6V";  // Your phpMyAdmin password, usually empty for local installations
+$dbname = "sql8713283";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
